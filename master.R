@@ -8,8 +8,7 @@ rm(list=ls()) # Clear environment
 
 path.project <- "C:/Users/sirsa/OneDrive/Documents/2024Dahiyat"
 path.data.prescribing <- "C:/Users/sirsa/OneDrive/Desktop/Warwick/Research/Data/EPD"
-#path.data.qof <- "C:/Users/sirsa/OneDrive/Desktop/Warwick/Research/Data/QOF"
-#path.data.listsize<- "C:/Users/sirsa/OneDrive/Desktop/Warwick/Research/Data/Listsize"
+
 
 ### Load packages -----
 
